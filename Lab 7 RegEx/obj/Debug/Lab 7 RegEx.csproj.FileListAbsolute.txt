@@ -1,0 +1,6 @@
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\Lab 5 Name Validation RegEx Refactor\Lab 7 RegEx\Lab 7 RegEx\bin\Debug\Lab 7 RegEx.exe.config
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\Lab 5 Name Validation RegEx Refactor\Lab 7 RegEx\Lab 7 RegEx\bin\Debug\Lab 7 RegEx.exe
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\Lab 5 Name Validation RegEx Refactor\Lab 7 RegEx\Lab 7 RegEx\bin\Debug\Lab 7 RegEx.pdb
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\Lab 5 Name Validation RegEx Refactor\Lab 7 RegEx\Lab 7 RegEx\obj\Debug\Lab 7 RegEx.csprojResolveAssemblyReference.cache
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\Lab 5 Name Validation RegEx Refactor\Lab 7 RegEx\Lab 7 RegEx\obj\Debug\Lab 7 RegEx.exe
+C:\Users\abledsoe1\OneDrive - Knex\^Personal iDrive\Documents\Coding Projects\Lab 5 Name Validation RegEx Refactor\Lab 7 RegEx\Lab 7 RegEx\obj\Debug\Lab 7 RegEx.pdb
